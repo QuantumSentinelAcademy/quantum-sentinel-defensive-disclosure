@@ -37,6 +37,6 @@ All Quantum Sentinel™ scripts include this standardized header:
 // PRIOR ART DISCLOSURE:
 // This software implements concepts publicly disclosed in:
 // "Quantum Sentinel™ Embedded Indicator Education Standard"
-// Version: 1.0 | Author: J. A. Pierre Godin | Date: $(date +%Y-%m-%d)
+// Version: 1.0 | Author: J. A. Pierre Godin | Date: 2026-01-04
 // Publication: https://github.com/QuantumSentinelAcademy/quantum-sentinel-defensive-disclosure
 // =================================================================
