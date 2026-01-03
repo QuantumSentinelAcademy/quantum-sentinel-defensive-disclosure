@@ -1,4 +1,4 @@
-# Quantum Sentinel™ Methodology Disclosure
+]# Quantum Sentinel™ Methodology Disclosure
 **Version:** 1.0 | **Date:** $(date +%Y-%m-%d) | **Author:** Pierre Godin  
 **Repository:** https://github.com/QuantumSentinelAcademy/quantum-sentinel-defensive-disclosure  
 **Contact:** quantumsentinelacademy@gmail.com  
@@ -30,13 +30,13 @@ This repository establishes public disclosure and prior art for the **Quantum Se
 All Quantum Sentinel™ scripts include this standardized header:
 
 ```pine
-//@version=5
+//@version=[version]
 // =================================================================
 // QUANTUM SENTINEL™ - [SCRIPT NAME]
 // =================================================================
 // PRIOR ART DISCLOSURE:
 // This software implements concepts publicly disclosed in:
 // "Quantum Sentinel™ Embedded Indicator Education Standard"
-// Version: 1.0 | Author: Pierre Godin | Date: $(date +%Y-%m-%d)
+// Version: 1.0 | Author: J. A. Pierre Godin | Date: $(date +%Y-%m-%d)
 // Publication: https://github.com/QuantumSentinelAcademy/quantum-sentinel-defensive-disclosure
 // =================================================================
