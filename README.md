@@ -30,6 +30,9 @@ This repository establishes public disclosure and prior art for the **Quantum Se
 All Quantum Sentinel™ scripts include this standardized header:
 
 ```pine
+// This Pine Script® code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+// © QuantumSentinelAcademy - J. A. Pierre Godin
+
 //@version=[version]
 // =================================================================
 // QUANTUM SENTINEL™ - [SCRIPT NAME]
